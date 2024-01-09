@@ -1,0 +1,6 @@
+nltk
+matplotlib
+beautifulsoup4
+lxml
+requests
+plotly
